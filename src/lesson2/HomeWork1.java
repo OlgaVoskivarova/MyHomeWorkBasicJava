@@ -19,12 +19,5 @@ public class HomeWork1 {
         System.out.println("Double: " + f);
         System.out.println("Long:" + g);
 
-        int x = 345;
-
-        int num1 = x- 342;
-        int num2 =x % 100/10;
-        int num3 = x-340;
-
-        System.out.println("Число:" + x +">" + num1 + ","+ num2 + "," + num3);
     }
 }
